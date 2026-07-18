@@ -16,7 +16,7 @@
 | 02 | NumPy Fundamentals | NumPy, линейная алгебра, производительность, тестирование |
 | 03 | Exploratory Data Analysis | Pandas, EDA, очистка данных, визуализация |
 | 04 | Introduction to Machine Learning | Теорема Байеса, классификация, обработка текста, Naive Bayes |
-| 05 | Data Visualization | Data Visualization, Matplotlib, Seaborn, Plotly` |
+| 05 | Data Visualization | Визуализация данных, matplotlib, seaborn, plotly |
 | 06 | Metric Machine Learning Algorithms | K-Nearest Neighbors, кросс-валидация, векторный поиск |
 
 ---
