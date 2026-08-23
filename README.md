@@ -18,6 +18,8 @@
 | 04 | Introduction to Machine Learning | Теорема Байеса, классификация, обработка текста, Naive Bayes |
 | 05 | Data Visualization | Визуализация данных, matplotlib, seaborn, plotly |
 | 06 | Metric Machine Learning Algorithms | K-Nearest Neighbors, кросс-валидация, векторный поиск |
+| 07 | Linear Regression | линейная регрессия, логистическая регрессия, градиентный спуск, Ridge и Lasso регрессии |
+| 08 | Trees and Random Forest | алгоритмы на основе деревьев, случайный лес, градиентный бустинг, ансамбли деревьев, подбор гиперпараметров |
 
 ---
 
@@ -142,6 +144,37 @@
 
 `Machine Learning` • `K-Nearest Neighbors` • `Scikit-Learn` • `Cross Validation` • `PCA` • `Vector Search` • `Qdrant`
 
+# 07. Linear Regression
+
+В рамках данного проекта были реализованы и обучены линейная и логистическая регрессия — два фундаментальных алгоритма машинного обучения для решения задач регрессии и классификации.
+
+Основные темы проекта:
+
+- алгоритм линейной регрессии
+- алгоритм логистической регрессии
+- градиентный спуск
+- Ridge и Lasso регрессии
+
+**Полученные навыки**
+
+`Scikit-Learn` • `Linear Regression` • `Gradient Descent` • `Ridge and Lasso Regressions` • `One and Multi Layer Neural Networks` • `PyTorch`
+
+# 08. Trees and Random Forest
+
+В этом проекте были освоены алгоритмы на основе деревьев решений — от одиночного дерева до ансамблей и градиентного бустинга. А финале применён градиентный бустинг к реальной задаче прогнозирования продаж на временных рядах.
+
+Основные темы проекта:
+
+- одиночные деревья решений
+- ансамбли деревьев
+- случайный лес
+- градиентный бустинг
+- подбор гиперпараметров
+
+*Полученные навыки**
+
+`Scikit-Learn` • `Decision Trees` • `Trees Ensemble` • `Random Forest` • `CatBoost` • `GridSearchCV` • `Optuna` • `SHAP`
+
 --- 
 
 # Используемые технологии
@@ -152,6 +185,7 @@
 - SciPy
 - Matplotlib
 - Scikit-learn
+- PyTorch
 - Jupyter Notebook
 - Git
 
