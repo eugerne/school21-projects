@@ -18,8 +18,8 @@
 | 04 | Introduction to Machine Learning | Теорема Байеса, классификация, обработка текста, Naive Bayes |
 | 05 | Data Visualization | Визуализация данных, matplotlib, seaborn, plotly |
 | 06 | Metric Machine Learning Algorithms | K-Nearest Neighbors, кросс-валидация, векторный поиск |
-| 07 | Linear Regression | линейная регрессия, логистическая регрессия, градиентный спуск, Ridge и Lasso регрессии |
-| 08 | Trees and Random Forest | алгоритмы на основе деревьев, случайный лес, градиентный бустинг, ансамбли деревьев, подбор гиперпараметров |
+| 07 | Linear Regression | Линейная регрессия, логистическая регрессия, градиентный спуск, Ridge и Lasso регрессии |
+| 08 | Trees and Random Forest | Алгоритмы на основе деревьев, случайный лес, градиентный бустинг, ансамбли деревьев, подбор гиперпараметров |
 
 ---
 
@@ -171,7 +171,7 @@
 - градиентный бустинг
 - подбор гиперпараметров
 
-*Полученные навыки**
+**Полученные навыки**
 
 `Scikit-Learn` • `Decision Trees` • `Trees Ensemble` • `Random Forest` • `CatBoost` • `GridSearchCV` • `Optuna` • `SHAP`
 
